@@ -1,1 +1,3 @@
 # Current-Emerging-Trends-in-Computer-Science
+
+For this Project, I was given a code about the agent and the pirate. We had to see who was going to make it to the goal, being the treasure, first. In the code, I implemented the Q-Learning aspect of it. Computer scientists makes life easier with technology to make like a bit more smoother. I approach a problem as a computer scientist as looking at the problem from a bird's eye view and then coming down to the problem working it out piece by piece. My ethical responsiblitlies as a computer scientist is to ensure the privacy of end users as they are inputting in their information in transfer of the technology that we are creating.
